@@ -20,7 +20,7 @@ Make sure to put all stylesheets and images in assets directory. You don't have 
 - Email
 - Username(unique)
 - Age
-- Bio
+-  
 
 5. Handle a POST request on `/form` path which should capture about data from above form and save it inside contacts directory provided at the root of the project.
 
