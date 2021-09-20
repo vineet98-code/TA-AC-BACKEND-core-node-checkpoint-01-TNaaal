@@ -40,7 +40,7 @@ Use fs module for above operations. Make sure to save users who have unique user
 
 - fetch that specific user information based on username from contacts
 - return HTML response with all user data
-
+    
 #### Bonus
 
 7. handle GET request on "/users" which should list all contacts into a webpage
